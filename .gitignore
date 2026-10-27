@@ -1,0 +1,6 @@
+attendance.db
+student_images/
+__pycache__/
+*.pyc
+.venv/
+*_attendance_report.csv
